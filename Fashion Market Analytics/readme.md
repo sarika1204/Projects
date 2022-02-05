@@ -1,8 +1,10 @@
 ## Fashion Market Analytics
 
 ## Overview
-Analyzed & visualized, on Power BI, the behavior of students for their spending towards different kinds
-of purchases like gadgets, indoor & outdoor games, toys etc.
+Analyzed fashion data and created an Excel based dashboard to visualize the
+company’s different product category sales performance across different states and best performing sales
+managers generating the maximum revenue.
+
 
 ## Motivation
 
