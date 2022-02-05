@@ -1,8 +1,8 @@
 
-![MasterHead](https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/07/tes_dta_blog_image_8.jpg)
+
 ![MasterHead](https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf.jpg)
 
-![MasterHead](http://greenartha-newgara.azurewebsites.net/task_data/files/1470658958banner-bigdata.jpg)
+
 # Hi, I'm Sarika Gupta! 👋
 
 
@@ -10,24 +10,10 @@
 ## 🚀 About Me
 I'm a Data Analyst
 
+I have a total of 3+ years of work experience. I know skills such as Power BI, MySQL, Python, Statistics, Advance Excel. I am looking for analyst related roles. For more information please find my resume below
 
 
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Power BI, MySQL,Advance Excel
-
-🧠 I'm currently learning...
-
-💬 Ask me about Data Analysis
-
-📫 How to reach me- sarikagupta12488@gmail.com
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-Tools-
+Tools I worked on are
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <img align="left" alt="Coding" width="40" height="40"src="https://monstock.net/static/755095fb2b20762681bcf7cc9f3c47cb/994e1/c067634e-165b-40ec-8eeb-88e7f08ce050_powerbi_.png">
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -35,24 +21,17 @@ Tools-
 
 
 
+ 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sarika-gupta-57076b1ab)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 
 
+You can find my projects in the below link
 
 
-# Spend and Budget Analysis
-
-Description-
-Analyzed & visualized on Power BI, the behavior of students for their spending towards different kinds of purchases like gadgets, indoor & outdoor games, toys etc.
-
-
-
-
-
-
-## Demo
-https://app.powerbi.com/groups/me/reports/c9a210f9-af14-4cbb-8383-a4f507b8e9df/ReportSection?ctid=fdc0ea74-dd40-4c10-8452-86634659c301
 
 
 
