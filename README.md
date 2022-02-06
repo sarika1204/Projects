@@ -25,7 +25,7 @@ https://github.com/sarika1204/Projects/tree/main/Acquisition
 https://github.com/sarika1204/Projects/tree/main/Product
    
    
-## Spend 
+## Spend & Budget Analysis
 Analyzed & visualized, on Power BI, the behavior of students for their spending towards different kinds
 of purchases like gadgets, indoor & outdoor games, toys etc.
    
