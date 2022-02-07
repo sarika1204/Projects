@@ -25,7 +25,11 @@ Install in 64 bit operating system having a minimum RAM of 8gb and more and run 
 The dashboard is deployed on powerbi with an auto scheduler. So that when data is updated automatically the report is updated
 
 ## Links
-I am sorry if there isn't any access. This is because of security standards in Power BI service. You can see the pdf version of it in the above present attachment
+ You can see the jpg version of it in the below present link
+
+
+https://github.com/sarika1204/Projects/blob/main/Fashion%20Market%20Analytics/Dashboard.JPG
+
  
 
 ## Technologies Used
