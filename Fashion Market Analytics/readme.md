@@ -42,10 +42,6 @@ If you have any feedbacks or suggestions, please reach out to me at sarikagupta1
 ## Tools used
 Excel
    
-## License
-    
-Copyright 2021 Sarika Gupta
 
-Power BI Pro per user subscriptions are available for self-service purchase, as well as in the Microsoft 365 admin center. Learn more about available Power BI purchasing and licensing options.
 ## Credits
 Ineuron -- This project wouldn't have been possible without the data of ineuron . It saved my enormous amount of time for finding the perfect data.
