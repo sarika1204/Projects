@@ -21,8 +21,7 @@ Install in 64 bit operating system having a minimum RAM of 8gb and more and run 
 ## Design Analysis:
 
 
-## Deployment
-The dashboard is deployed on powerbi with an auto scheduler. So that when data is updated automatically the report is updated
+
 
 ## Links
  You can see the jpg version of it in the below present link
@@ -34,7 +33,7 @@ https://github.com/sarika1204/Projects/blob/main/Fashion%20Market%20Analytics/Da
 
 ## Technologies Used
  
- 
+ MS EXCEL, MYSQL
  
 ## Feedback
 If you have any feedbacks or suggestions, please reach out to me at sarikagupta12488@gmail.com or fill in 
