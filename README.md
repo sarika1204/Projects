@@ -6,7 +6,7 @@ You can find my projects link below
 
 
 ## Product Analysis
-Analyzed targeted audience from promotions & retailers’ data, on Power BI, for new product launch in
+Analyzed audience from  retailers’ data, on Power BI, for new product launch in
 the market 
 
 Click below for dashboard & more details 
